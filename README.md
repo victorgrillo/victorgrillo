@@ -1,8 +1,8 @@
-👋 Hi, I’m @victorgrillo
-👀 I’m interested in back-end development and machine learning
-🌱 I’m currently learning Python and Java
-📫 How to reach me victorfernandescruz@gmail.com
-😄 Pronouns: He/Him
+👋 Hi, I’m @victorgrillo<br/>
+👀 I’m interested in back-end development and machine learning<br/>
+🌱 I’m currently learning Python and Java<br/>
+📫 How to reach me victorfernandescruz@gmail.com<br/>
+😄 Pronouns: He/Him<br/>
 
 
 ## 🌐 Socials:
