@@ -1,5 +1,5 @@
 👋 Hi, I’m @victorgrillo<br/>
-👀 I’m interested in back-end development and QA/QC <br/>
+👀 I’m interested in back-end development <br/>
 🌱 I’m currently learning JS, React, and Node.JS<br/>
 📫 How to reach me victorfernandescruz@gmail.com<br/>
 😄 Pronouns: He/Him<br/>
